@@ -1,4 +1,4 @@
-# kubernetes-the-hard-way with local repository on Internet-free environment 
+# kubernetes-the-hard-way with local repository airgap
 
 >This set-up is based on https://github.com/kelseyhightower/kubernetes-the-hard-way/tree/master/docs repository. 
 
